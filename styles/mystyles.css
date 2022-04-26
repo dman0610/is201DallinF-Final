@@ -1,0 +1,16 @@
+.mybold {
+    font-weight: bold;
+    z-index: 1000;
+}
+.mychangecolor {
+    color: green;
+    z-index: 1002;
+}
+.mychangesize {
+    font-size: 14px;
+    z-index: 1001;
+}
+.mychangestyle {
+    font-style: italic;
+    z-index: 1003;
+}

@@ -1,0 +1,49 @@
+
+.common {
+    /*background-color: #CCCCCC;
+    border: solid 2px white;*/
+    position: absolute;
+}
+
+body {
+    /*background-color: #555555;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headertab {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 101px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+}
+
+.mainbody {
+    top: 114px;
+    left: 0px;
+    bottom: 64px;
+    right: 0px;
+    padding-right: 5px;
+}
+
+.footertab {
+    height: 10px;
+    left: 5px;
+    bottom: 5px;
+    right: 5px;
+    font-size:12px;
+    color: #999999;
+    text-align: center;
+    position: fixed;
+}
+
+.tableinfo {
+    color: white;
+    font-style: italic;
+}
+
+.note {
+    font-style: italic;
+    font-size: 10px;
+}
